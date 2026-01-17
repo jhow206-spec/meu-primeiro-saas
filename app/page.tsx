@@ -13,7 +13,7 @@ export default function Home() {
       }}
     >
       <h1 style={{ fontSize: "2.5rem", marginBottom: "1rem" }}>
-        🚀 Meu Primeiro SaaS
+        🚀 Meu Primeiro SaaS JHOW
       </h1>
 
       <p style={{ fontSize: "1.2rem", marginBottom: "2rem" }}>
